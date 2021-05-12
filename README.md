@@ -1,0 +1,1 @@
+Depoly mobilenet with ncnn, reference to https://github.com/Revo-Future/ncnn_mobileNet.git.
